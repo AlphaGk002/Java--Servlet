@@ -1,2 +1,3 @@
 # Java--Servlet
-Demo in java servlet simple adding
+
+For basic coding in java-servlet 
